@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"  ?>
+
+<personData>
+
+    <user>
+        <firstName>Syed</firstName>
+        <lastName>Ashir </lastName>
+        <email>ashir@gmail.com</email>
+    </user>
+
+    <user>
+        <firstName>Ali</firstName>
+        <lastName>Syed </lastName>
+        <email>ali@gmail.com</email>
+    </user>
+
+    <user>
+        <firstName>Syed</firstName>
+        <lastName>Areeb </lastName>
+        <email>areeb@gmail.com</email>
+    </user>
+
+</personData>
